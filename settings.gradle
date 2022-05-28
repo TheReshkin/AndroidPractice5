@@ -16,3 +16,4 @@ rootProject.name = "practice5"
 include ':temp'
 include ':accelerometer'
 include ':camera'
+include ':audiorecord'
